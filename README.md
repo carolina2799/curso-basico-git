@@ -14,7 +14,7 @@ npm run build
 npm start
 ```
 [google.com](https://www.google.com/)
-![imagen](https://placeimg.com/640/480)
+![imagen](https://placeimg.com/640/480/any)
 - [x] Creacion de usuarios
 - [ ] Eliminar usuarios
 - [ ] Actualizacion de usuarios 
