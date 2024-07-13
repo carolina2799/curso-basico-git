@@ -1,6 +1,7 @@
 # esto es un titulo H1
 ## esto es un titulo H2
 ### esto es un titulo H3
+### esto es otro titulo H3$H3
 esto es un texto descriptivo **texto en negrita** **texto personalizado**
 > esto es un cloque de texto o comentario
 - Item1
